@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAccounts</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="view_report">View Report</string>
+    <string name="you_will_give">You will give</string>
+    <string name="you_will_get">You will get</string>
+</resources>
