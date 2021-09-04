@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">MyAccounts</string>
-    <string name="add_customer">Add Customer</string>
     <string name="view_report">View Report</string>
     <string name="you_will_give">You will give</string>
     <string name="you_will_get">You will get</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_optional">Phone Number (Optional)</string>
+    <string name="continue_str">continue</string>
+    <string name="customer_detail">Customer Detail</string>
+    <string name="you_gave_rs">You Gave Rs.</string>
+    <string name="you_got_rs">YOU GOT Rs.</string>
+    <string name="delete_customer">Delete Customer</string>
 </resources>

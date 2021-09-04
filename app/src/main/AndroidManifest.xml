@@ -10,7 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAccounts">
         <activity
-            android:name=".MainActivity"
+            android:label="@string/customer_detail"
+            android:name=".activities.CustomerDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.AddCustomerActivity"
+            android:exported="true"
+            android:label="@string/add_customer"
+            android:theme="@style/addCustomerActivityTheme"
+            android:windowSoftInputMode="stateVisible"
+            android:noHistory="true"/>
+        <activity
+            android:name=".activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

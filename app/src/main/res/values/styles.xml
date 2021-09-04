@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MoneyGreenButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/money_green</item>
+    </style>
+
+    <style name="BloodRedButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/blood_red</item>
+    </style>
+</resources>
